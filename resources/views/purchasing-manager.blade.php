@@ -4,7 +4,7 @@
     <h1 class="mt-4">Purchasing Manager</h1>
     <div class="card mb-4">
         <div class="card-header">
-            <button class="btn btn-primary btn-sm float-right" data-toggle="modal" data-target="#addPurchasingManager">Add</button>
+            <button class="btn btn-primary btn-sm" data-toggle="modal" data-target="#addPurchasingManager">Add</button>
         </div>
         <div class="card-body">
             <div class="table-responsive">

@@ -4,10 +4,7 @@
     <h1 class="mt-4">District Manager</h1>
     <div class="card mb-4">
         <div class="card-header">
-            <i class="fas fa-table mr-1"></i>
-            Managers
-
-            <button class="btn btn-primary btn-sm float-right" data-toggle="modal" data-target="#addDistrictManager">Add</button>
+            <button class="btn btn-primary btn-sm" data-toggle="modal" data-target="#addDistrictManager">Add</button>
         </div>
         <div class="card-body">
             <div class="table-responsive">
